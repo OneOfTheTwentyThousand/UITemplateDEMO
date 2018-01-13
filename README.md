@@ -4,7 +4,7 @@ UI模块引擎 UITemplate 示例DEMO
 ## 概述
 
 本示例 DEMO 主要用于展示如何使用 UITemplate UI模块引擎语法来开发小程序模块。模块内集成了几个小程序功能模块，包括
-	
+
 - uitlistview 列表
 
 - uitscrollpicture 轮播视图
@@ -47,4 +47,4 @@ UI模块引擎 UITemplate 示例DEMO
 
 	https://docs.apicloud.com/UI-templet/UI-templet-api
 
- 
+- 当前 DEMO 已在 iOS系统测试通过, 建议开发者在 iOS 手机上体验本DEMO 的运行效果
